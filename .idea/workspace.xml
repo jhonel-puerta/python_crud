@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1183097-f8b1-4325-ac20-33658c54f09a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jyAxZnt6lGBGfYLJPd9Pa56hLq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\4.cursos\IONN SAC\view\dialog" />
+      <recent name="D:\4.cursos\IONN SAC\view" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main (1)">
+    <configuration name="Connection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="IONN SAC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model/Connection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Product" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="IONN SAC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model/Product.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="IONN SAC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/view" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/view/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="IONN SAC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\4.cursos\IONN SAC\view\main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="productController" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="IONN SAC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/controller" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/controller/productController.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.productController" />
+        <item itemvalue="Python.Product" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.Connection" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1183097-f8b1-4325-ac20-33658c54f09a" name="Default Changelist" comment="" />
+      <created>1604766204189</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604766204189</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="804" y="122" key="FileChooserDialogImpl" timestamp="1604766840031">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="804" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1604766840031" />
+    <state width="659" height="120" key="GridCell.Tab.0.bottom" timestamp="1609199477651">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="659" height="120" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1609199477651" />
+    <state width="659" height="120" key="GridCell.Tab.0.center" timestamp="1609199477650">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="659" height="120" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1609199477650" />
+    <state width="659" height="120" key="GridCell.Tab.0.left" timestamp="1609199477648">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="659" height="120" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1609199477648" />
+    <state width="659" height="120" key="GridCell.Tab.0.right" timestamp="1609199477650">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="659" height="120" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1609199477650" />
+    <state width="1345" height="248" key="GridCell.Tab.1.bottom" timestamp="1605589801029">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="248" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605589801029" />
+    <state width="1345" height="248" key="GridCell.Tab.1.center" timestamp="1605589801028">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="248" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1605589801028" />
+    <state width="1345" height="248" key="GridCell.Tab.1.left" timestamp="1605589801028">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="248" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1605589801028" />
+    <state width="1345" height="248" key="GridCell.Tab.1.right" timestamp="1605589801029">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="248" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1605589801029" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1604766234877">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1604766234877" />
+    <state x="721" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1609199336223">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="721" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1609199336223" />
+    <state x="676" y="0" width="697" height="735" key="dock-window-1" timestamp="1609201733191">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="676" y="0" width="697" height="735" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1609201733191" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1605988575149">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1605988575149" />
+  </component>
+</project>
